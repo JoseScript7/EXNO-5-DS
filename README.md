@@ -1,5 +1,6 @@
 # EXNO-5-DS-DATA VISUALIZATION USING MATPLOT LIBRARY
-
+    Name:A.Ranen Joseph Solomon
+    Register Number: 212224040269
 # Aim:
   To Perform Data Visualization using matplot python library for the given datas.
 
